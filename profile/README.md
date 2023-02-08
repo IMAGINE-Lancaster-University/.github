@@ -1,4 +1,4 @@
-# .github
+# IMAGINE
 
 Investigating Magnetism Around Ganymede In Natural Environments
 
